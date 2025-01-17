@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+hello fruit
+hello fruit 1
 hello fruit 2
 hello fruit 3
+=======
+hello fruit 2
+hello fruit 3
+>>>>>>> main
